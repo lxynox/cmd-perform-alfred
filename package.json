@@ -1,0 +1,16 @@
+{
+  "name": "cmd-perform-alfred",
+  "version": "0.0.1",
+  "description": "An alfred workflow test shell command in milliseconds",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:lxynox/cmd-perform-alfred.git",
+    "type": "git"
+  },
+  "author": "lxynox <lxybitren@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "performance-now": "^0.2.0",
+    "run-node": "^0.1.1"
+  }
+}
